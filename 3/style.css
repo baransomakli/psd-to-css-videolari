@@ -1,0 +1,58 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,
+address,big,cite,code,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,
+center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;list-style:none;list-style-type:none;text-decoration:none;font-family:'Open Sans', sans-serif;}
+.temizlik{
+	clear: both;
+}
+body{
+	background: #dfdfdf;
+	color: #888888;
+}
+.header-top{
+	border-top: 10px solid #393939;
+}
+.header{
+	float: left;
+	width: 100%;
+	height: 100px;
+	background: #fff;
+	border-top: 5px solid #f07929;
+}
+.header-ic{
+	width: 960px;
+	margin: 0px auto;
+}
+.header-ic-logo{
+	float: left;
+	margin-top: 15px;
+}
+.header-ic-reklam{
+	float: right;
+	margin-top: 15px;
+}
+.header-iki{
+	float: left;
+	width: 100%;
+	height: 40px;
+	background: #393939;
+	border-top: 5px solid #f07929;
+	margin-bottom: 20px;
+}
+.header-iki-ic{
+	width: 960px;
+	margin: 0px auto;
+}
+.header-iki-ic-menu ul{
+	float: left;
+}
+.header-iki-ic-menu ul li{
+	float: left;
+	padding-right: 20px;
+	line-height: 40px;
+}
+.header-iki-ic-menu ul li a{
+	color: #fff;
+}
+.header-iki-ic-menu ul li a:hover{
+	color: #f07929;
+}
